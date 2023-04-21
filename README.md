@@ -1,8 +1,4 @@
-# BattleField
-Design and implement a battleship game to be played between two players until one comes out as the winner.
-
-BattleShip Game
-
+# BattleShip Game
 Design and implement a battleship game to be played between two players until one comes out as the winner.
 
 Requirements:

@@ -64,6 +64,6 @@ How will you be evaluated?
     Object-Oriented concepts.
     Language proficiency.
     Scalability
-    Test Coverage (Bonus Points)
+    Test Coverage
 
 
